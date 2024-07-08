@@ -1,7 +1,7 @@
 # Fake News Filter
 
 ## Project Description
-This project focuses on developing a Natural Language Processing (NLP) solution to address the escalating issue of fake news. With the exponential growth of social media over the past decade, the spread of fake news has become a significant problem. In response, the United States government tasked our company with creating a Chrome plug-in capable of identifying fake news. The goal was to develop a model that can accurately distinguish between real and fake news, which would then be deployed by the machine learning engineers and web developers on our team.
+This project focuses on developing a Natural Language Processing (NLP) solution to address the escalating issue of fake news. With the exponential growth of social media over the past decade, the spread of fake news has become a significant problem. In response, the United States government tasked the company with creating a filter capable of identifying fake news. The goal was to develop a model that can accurately distinguish between real and fake news, which would then be deployed by the machine learning engineers and web developers on our team.
 
 ## Objective
 The primary objective was to create a robust NLP model that can recognize fake news articles. We were provided with two datasets: one containing only fake news and the other containing only real news. These datasets were used to train the model.
