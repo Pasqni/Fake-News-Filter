@@ -30,4 +30,4 @@ An in-depth analysis was conducted to answer key questions such as:
 After training and evaluating the model, it was exported using `Pickle`.
 
 ## Summary
-This project successfully delivered an NLP-based solution for detecting fake news, addressing a critical need in the era of social media. The developed model, trained on distinct datasets of real and fake news, enables accurate identification of false information. By exporting the model, we ensured that our team could integrate this solution into a Chrome plug-in, providing a powerful tool to combat the spread of fake news.
+This project successfully delivered an NLP-based solution for detecting fake news, addressing a critical need in the era of social media. The developed model, trained on distinct datasets of real and fake news, enables accurate identification of false information.
